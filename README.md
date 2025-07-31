@@ -10,7 +10,11 @@
 
 ###
 
-<img align="right" height="150" src="https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/318337510_1651252845277529_6719572261085663284_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=783fdb&_nc_ohc=sWnhHZbzZvgAX8SFaZt&_nc_ht=scontent.fdac11-2.fna&oh=00_AfCw77kvK4saJ9okA_wfAIqpN4vj0FfpXEToiuSzxAWMKA&oe=659E6E46"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
 
 ###
 
