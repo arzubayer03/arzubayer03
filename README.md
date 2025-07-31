@@ -32,7 +32,7 @@
 <img width="12" />
 
 <!-- Tailwind CSS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="tailwindcss logo" />
 <img width="12" />
 
 <!-- React -->
